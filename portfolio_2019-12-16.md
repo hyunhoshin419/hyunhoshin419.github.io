@@ -1,38 +1,137 @@
-## Welcome to GitHub Pages
+정원준
+- 이메일 : nttejun@gmail.com
 
-You can use the [editor on GitHub](https://github.com/hyunhoshin419/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+경력 & 프로젝트
+---
+티모넷 - 2년
+Software Engineer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2018.10 ~ 2019.11.30
+클라우드 보안토큰 서비스 운영 업무
 
-### Markdown
+Vert.x 기반 기능 개발
+SMS 휴대폰본인인증
+- KG 모빌리언스 모듈을 이용하여 휴대폰본인인증 개발
+데이터 변조, 복조 기능
+- PKCS#5 키 유도 함수(PBKDF2)를 사용하여 생성된 키 값으로 XOR 연산을 이용한 데이터 변조, 복조
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SpringBoot 기반 백엔드 유지보수
+결제배치 모듈
+- 신용카드, 휴대폰 자동결제 및 자동결제 해지 기능 수정
+백오피스 관리자 통계배치 모듈
+- 일별 누적 통계항목 추가
 
-```markdown
-Syntax highlighted code block
+Vert.x 기반 백엔드 유지보수
+백오피스 관리자 모듈
+- 관리자 메뉴 사업팀 요청사항 수정
+앱 위변조 모듈
+- 앱 위변조 서버 HTTPS 통신 추가
 
-# Header 1
-Hello Test
-## Header 2
-### Header 3
+간단한 쿼리 작성
+사용자 통계, 마케팅 활용, 정산처리, 사업 보고에 필요한 쿼리 작성 및 데이터 추출
+서비스 로그 분석
+서버, 앱, 모바일 웹뷰에서 발생되는 서비스 장애 및 사용자 민원 원인 분석 및 해결
 
-- Bulleted
-- List
+2018.01 ~ 2019.11.30
+클라우드 보안토큰 서비스 웹 앱 개발 업무
 
-1. Numbered
-2. List
+전자서명 Non-ActiveX 툴킷(javascript 기반) 수정 개발
+툴킷과 앱을 이용하여 전자서명하는 API 수정, XML 데이터 파싱
 
-**Bold** and _Italic_ and `Code` text
+보안토큰 사용자 프로그램 개발
 
-[Link](url) and ![Image](src)
-```
+이지싸인 서비스 웹 뷰 전체 리뉴얼
+서비스가입, SMS인증, 마이페이지 개발
+광고배너 기능 swiper.js 사용하여 개발
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ID/PW 신규 서비스 웹 뷰
+ID/PW 즐겨찾기, ID/PW 그룹, 기본 CRUD 기능 개발
+ID/PW 검색 기능 list.js 사용하여 개발
 
-### Jekyll Themes
+결제 서비스 웹 뷰
+상품결제, 상품 해지예약, 결제정보 조회 기능 개발
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyunhoshin419/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+스마트 사인 서비스 홈페이지
+서비스 해지, 이메일 문의 기능 개발
+서비스 홈페이지 커스터마이징 개발
 
-### Support or Contact
+스마트 사인 서비스 웹 뷰
+서비스 커스터마이징 개발
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+주니어 개발자
+---
+현재 티모넷에서 클라우드 보안토큰 서비스의 개발, 운영 업무를 담당하고 있습니다.
+개인적으로 학습한 내용은 업무에 어떻게 적용할 수 있는지 고민합니다.
+꾸준한 학습 습관을 위해 노력합니다. 퇴근 후에는 도서관에 매일 방문하여 개발에 필요한 지식을 공부하는 시간을 갖습니다.
+
+
+업무적 강점
+---
+서비스 개발에서 운영까지의 업무 프로세스 경험
+SpringBoot, Vert.x 프레임워크 환경에서의 업무 경험
+테스트 주도 개발(TDD)에 대한 이해
+새로운 기술에 대한 관심과 지속적인 학습 능력
+
+
+기술 스택
+---
+구분	내용
+Language	Java, Javascript(ES6)
+Front-end	HTML5, CSS
+Back-end	Spring(SpringBoot), Vert.x
+Data	Oracle, MySQL
+Etc	AWS (EC2, RDS), Github, Gitlab, Bitbucket, Intellij
+
+간단한 소개
+---
+학습에 대한 동기부여
+
+스터디를 하면서 하나의 주제를 끝까지 학습해 나가고 있습니다.
+- 클라우드(DevOps) 교육 : Azure DevOps + Agile + CI + DI (2019.11)
+- 스프링5 레시피, JAVA 언어로 배우는 디자인 패턴, 이펙티브 자바 2판, 3판 스터디 (2017.10 - 2019.02)
+- 테스트 주도 개발 스터디 (2018.04 - 2018.05)
+- 알고리즘 스터디 (2018.01 - 2018.02)
+- 교내 알고리즘 스터디 (2017.09 - 2017.11)
+
+개인적인 시간은 만들고 싶은 서비스, 관심 있는 기술을 사용하여 개발하는 것을 좋아합니다.
+- 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD 연습)
+- 해커톤(AWS KRUG) 참가
+
+
+메모와 기록을 습관화
+
+모든 업무 내용을 메모합니다. 태스크, 타임 테이블을 만들어 개인 일정을 관리합니다.
+공부하며 개발 과정에서 생각한 내용을 기록합니다. 더 나은 개발자가 되기 위해 고민합니다.
+
+
+
+개인 프로젝트
+---
+Starter
+개발기간 : 2018.09 - 2018.10
+Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
+
+AWS 상담챗봇
+개발기간 : 2018.07.20 - 2018.07.21
+Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
+
+WhatMenu
+개발기간 : 2017.03 - 2017.06
+개발자가 음식점 간판 사진을 찍으면 Google Vision, OpenCV 이용하여 음식점 정보를 제공하는 웹 서비스 개발 (개발 인원 - 4명)
+
+
+
+개인 프로필
+---
+학력
+Soonchunhyang University (2011.03 - 2018.02)
+국제통상학과 (컴퓨터소프트웨어 공학 전과)
+
+무원고등학교 (2008.03 - 2011.02)
+
+
+링크
+https://github.com/nttejun
+https://wjjeong.tistory.com/ (https://wjun.tistory.com/)
