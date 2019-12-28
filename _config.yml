@@ -25,7 +25,7 @@ title                    : "Junior Developer"
 title_separator          : "-"
 name                     : ""
 description              : "."
-url                      : "https://hyunhoshin419.githun.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hyunhoshin419.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "신 현 호"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "tlsgusgh11@gmail.com"
+  bio              : "hyunho_shin419@naver.com"
   location         : ""
   email            :
   links:
